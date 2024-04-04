@@ -16,5 +16,6 @@ projeto backend baseado em Rest API.
 - Configurar o banco de dados H2
 - Criar os endpoints da API REST
 
-# Configuração do Maven Resources Plugin
+# Desenvolvimento moderno: relacional -> objeto -> json
+![imagem](https://github.com/Ribeirosk8/Projeto-Spring-Boot-Java/blob/main/Objeto.png)
 
