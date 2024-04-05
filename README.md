@@ -1,4 +1,7 @@
 # Projeto-Spring-Boot-Java
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
+
 Projeto utilizando o framework Spring para o gerenciamento de usuários de um sistema. Se tratará de um 
 projeto backend baseado em Rest API.
 
